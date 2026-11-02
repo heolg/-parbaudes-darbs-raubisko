@@ -4,3 +4,4 @@ Es salīdzinātu skripta rezultātu ar sagaidāmo rezultātu. Vispirms pārbaud�
 
 J2. Datnes kodējums
 
+Varbūt, lai viņiem vajag but viss kolonna, tad viņam vajag izmantot kolonnu dailtaju ";" lai Excel viņam izdarīt viss pēc kolonnas.
