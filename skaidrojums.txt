@@ -1,1 +1,6 @@
+J1. Klusā kļūda
+
+Es salīdzinātu skripta rezultātu ar sagaidāmo rezultātu. Vispirms pārbaudītu, vai skripts atlasa pareizos procesus un vai nosacījumi ir pareizi. Pēc tam pārbaudītu datus un skripta loģiku.
+
+J2. Datnes kodējums
 
