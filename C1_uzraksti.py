@@ -1,10 +1,10 @@
-ERROR = {}
+rezultati = []
 
-with open("sistema.log", encoding="utf-8") as f:
-    for rinda in f:
-        limenis = rinda.split()[2]
-        
-    if limenis in ERROR:
-        ERROR[limenis] += 1
-    else:
-        ER00R[limenis] = 1
+for rinda in open("sistema.log"):
+    if "ERROR" in rinda:
+        rezultati.append(rinda)
+
+print("ERROR rindu skaits:" , len(rezultati))
+
+for rinda in rezultati[:2]:
+    print(rinda)
